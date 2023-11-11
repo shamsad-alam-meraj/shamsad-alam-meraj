@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Junior Frontend Engineer at [EkkBaz](https://ekkbaz.com/)
 
-- 🌱 I’m currently learning **React Native, NextJS**
+- 🌱 I’m currently learning **TypeScript, Mongoose**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-meraj.web.app/](https://my-portfolio-meraj.web.app/)
 
