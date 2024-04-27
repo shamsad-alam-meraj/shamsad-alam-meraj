@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as *Junior Frontend Software Engineer* at ***[EkkBaz](https://ekkbaz.com/)***
 
-- 👨‍💻 All of my projects are available at [here](https://my-portfolio-meraj.web.app/)
+- 👨‍💻 All of my projects are available at [here](https://my-portfolio-meraj.web.app/) & previous [github](https://github.com/meraj191-35-2735) account
 
 - 📫 How to reach me **shamsad.alam.meraj@gmail.com**
   
