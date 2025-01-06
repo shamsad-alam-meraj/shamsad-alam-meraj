@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Shamsad Alam Meraj</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working as *Junior Frontend Software Engineer* at ***[EkkBaz](https://ekkbaz.com/)***
+- 🔭 I’m currently working as *Junior Frontend Software Engineer* at ***[EkkBaz.AI](https://ekkbaz.ai/)***
 
 - 👨‍💻 All of my projects are available at [here](https://my-portfolio-meraj.web.app/) & previous [github](https://github.com/meraj191-35-2735) account
 
