@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Shamsad Alam Meraj</h1>
-<h3 align="center">A passionate **Frontend Developer** from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
 - 🔭 I’m currently working as *Frontend Developer* at ***[Everything Green](https://www.everythinggreen.org/)***
 
