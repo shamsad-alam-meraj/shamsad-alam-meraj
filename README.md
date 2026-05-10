@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Md. Shamsad Alam Meraj</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working as *Full Stack Developer* at ***[Everything Green](https://www.everythinggreen.org/)***
+- 🔭 I’m currently working as *Senior Frontend Engineer* at ***[THSnet](https://thsnet.com/)***
 
 - 👨‍💻 To know more about me at [here](https://shamsad.vercel.app/)
 
